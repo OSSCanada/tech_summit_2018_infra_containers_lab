@@ -22,9 +22,9 @@ A ```Dockerfile``` has been created already to streamline this process/step for 
 
 - Next run the container
   - From the terminal run the following command:
-  - ```docker run -it --rm -name demoapp -p 4000:4000 myapp:latest```
+  - ```docker run -it --rm -name demoapp -p 3000:3000 myapp:latest```
   - open a browser and navigate to:
-    - ```http://localhost:4000```
+    - ```http://localhost:3000```
   - Voila - you have a working Docker container running a Node (express.js) app
 
 ## Next Steps
