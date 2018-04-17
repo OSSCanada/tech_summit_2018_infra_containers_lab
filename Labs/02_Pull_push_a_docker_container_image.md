@@ -1,9 +1,11 @@
-# How to Pull and Use a Docker Container Image
+# How to Pull and Push a Docker Container Image with Azure Container Registry
 
 The purpose of this section is to help you understand how to clone/copy images via docker commands using:
     - PULL (from public image repositories)
     - TAG (update versioning and/or destination registry)
     - PUSH (to registry) with the Docker command line tool (aka Docker client).
+
+We will also learn how to create a private Azure Container Registry for saving/deploying our own container images.
 
 ## Pulling an Image from Docker Hub (Public Container Registry)
 
