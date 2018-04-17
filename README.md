@@ -9,7 +9,7 @@ This HoL is designed to be delivered within 1hr.
 ## Target Audience
 Target Audience: Anyone new deploying and using Docker Containers in Microsoft Azure.
 
-## [Presentations](Presentations)
+## [Presentation Deck](Presentation/)
 
 ## Environment Setup
 
